@@ -1,0 +1,29 @@
+{
+  "name": "asm2-1644",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hieunc2612/nodejs_ASM.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Nguyen Cong Hieu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hieunc2612/nodejs_ASM/issues"
+  },
+  "homepage": "https://github.com/hieunc2612/nodejs_ASM#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
